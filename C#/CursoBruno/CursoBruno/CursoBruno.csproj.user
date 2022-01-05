@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm_checkBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_checkedListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_comboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_dateTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_linkLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_listBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_listView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_maskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_monthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_numericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_pictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_progressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_radioButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_splitContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_sqLite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_tabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_trackBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_treeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\Documents\Visual Studio 2019\Projects\Cores\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

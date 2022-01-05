@@ -1,0 +1,30 @@
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.Form1.resources
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.GenerateResource.cache
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Leandro Costa\source\repos\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.Form1.resources
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+D:\Documents\Visual Studio 2019\Projects\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

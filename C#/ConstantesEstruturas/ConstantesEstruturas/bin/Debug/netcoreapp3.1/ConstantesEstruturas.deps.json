@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConstantesEstruturas/1.0.0": {
+        "runtime": {
+          "ConstantesEstruturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstantesEstruturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

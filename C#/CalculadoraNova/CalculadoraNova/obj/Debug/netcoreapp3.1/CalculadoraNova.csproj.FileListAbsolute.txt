@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\bin\Debug\netcoreapp3.1\CalculadoraNova.exe
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\bin\Debug\netcoreapp3.1\CalculadoraNova.deps.json
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\bin\Debug\netcoreapp3.1\CalculadoraNova.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\bin\Debug\netcoreapp3.1\CalculadoraNova.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\bin\Debug\netcoreapp3.1\CalculadoraNova.dll
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\bin\Debug\netcoreapp3.1\CalculadoraNova.pdb
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.Form1.resources
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.dll
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.pdb
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.genruntimeconfig.cache
+D:\Documents\Visual Studio 2019\Projects\CalculadoraNova\CalculadoraNova\obj\Debug\netcoreapp3.1\CalculadoraNova.csprojAssemblyReference.cache

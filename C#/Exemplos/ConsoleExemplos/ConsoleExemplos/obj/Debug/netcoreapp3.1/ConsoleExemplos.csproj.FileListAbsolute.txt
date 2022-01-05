@@ -1,0 +1,13 @@
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\bin\Debug\netcoreapp3.1\ConsoleExemplos.exe
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\bin\Debug\netcoreapp3.1\ConsoleExemplos.deps.json
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\bin\Debug\netcoreapp3.1\ConsoleExemplos.runtimeconfig.json
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\bin\Debug\netcoreapp3.1\ConsoleExemplos.runtimeconfig.dev.json
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\bin\Debug\netcoreapp3.1\ConsoleExemplos.dll
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\bin\Debug\netcoreapp3.1\ConsoleExemplos.pdb
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.csproj.AssemblyReference.cache
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.AssemblyInfoInputs.cache
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.AssemblyInfo.cs
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.dll
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.pdb
+D:\Projetos\C#\Exemplos\ConsoleExemplos\ConsoleExemplos\obj\Debug\netcoreapp3.1\ConsoleExemplos.genruntimeconfig.cache

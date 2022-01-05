@@ -1,0 +1,13 @@
+D:\Projetos\C#\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+D:\Projetos\C#\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe
+D:\Projetos\C#\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.pdb
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.AssemblyReference.cache
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmMenu.resources
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.cache
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.exe
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.pdb
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmAdicionarEditar.resources
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmResultado.resources
+D:\Projetos\C#\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmPesquisa.resources
