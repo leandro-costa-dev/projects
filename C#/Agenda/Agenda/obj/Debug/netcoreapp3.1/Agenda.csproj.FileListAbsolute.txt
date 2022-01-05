@@ -16,3 +16,21 @@ D:\Documents\Visual Studio 2019\Projects\Agenda\Agenda\obj\Debug\netcoreapp3.1\A
 D:\Documents\Visual Studio 2019\Projects\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_inserirEditar.resources
 D:\Documents\Visual Studio 2019\Projects\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_pesquisa.resources
 D:\Documents\Visual Studio 2019\Projects\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_resultado.resources
+C:\Projetos\projects\C#\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Projetos\projects\C#\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Projetos\projects\C#\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Projetos\projects\C#\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Projetos\projects\C#\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Projetos\projects\C#\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.AssemblyReference.cache
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_inserirEditar.resources
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_menu.resources
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_pesquisa.resources
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.frm_resultado.resources
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.GenerateResource.cache
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.pdb
+C:\Projetos\projects\C#\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.genruntimeconfig.cache
