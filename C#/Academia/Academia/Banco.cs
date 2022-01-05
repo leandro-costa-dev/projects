@@ -24,6 +24,7 @@ namespace Academia
         {
             SQLiteDataAdapter adaptador = null;
             DataTable tabela = new DataTable();
+            
 
             try
             {
